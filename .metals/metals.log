@@ -1,0 +1,52 @@
+[0m2021.07.27 22:44:35 INFO  Started: Metals version 0.10.5 in workspace '/home/aibody/frontside/front-side-v005' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.27 22:44:48 INFO  time: initialize in 12s[0m
+[0m2021.07.27 22:44:52 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.27 22:44:52 WARN  no build tool detected in workspace '/home/aibody/frontside/front-side-v005'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.29 19:34:59 INFO  Started: Metals version 0.10.5 in workspace '/home/aibody/frontside/front-side-v005' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.29 19:35:09 INFO  time: initialize in 10s[0m
+[0m2021.07.29 19:35:16 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.29 19:35:16 WARN  no build tool detected in workspace '/home/aibody/frontside/front-side-v005'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.29 19:35:16 WARN  no build target for: /home/aibody/offshore-side-v001/src/main/scala/ply/te.scala[0m
+[0m2021.07.29 19:35:33 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+Jul 29, 2021 7:35:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Jul 29, 2021 7:35:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+[0m2021.07.29 19:35:34 WARN  no build target for: /home/aibody/offshore-side-v001/src/main/scala/ply/te.scala[0m
+[0m2021.07.29 19:35:47 INFO  time: code lens generation in 28s[0m
+[0m2021.07.29 19:35:47 INFO  time: code lens generation in 12s[0m
+[0m2021.07.29 19:35:47 INFO  time: code lens generation in 23s[0m
+[0m2021.07.29 19:36:55 INFO  shutting down Metals[0m
+[0m2021.07.29 19:56:55 INFO  Started: Metals version 0.10.5 in workspace '/home/aibody/frontside/front-side-v005' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.29 19:57:05 INFO  time: initialize in 9.92s[0m
+[0m2021.07.29 19:57:09 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.29 19:57:09 WARN  no build tool detected in workspace '/home/aibody/frontside/front-side-v005'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.29 19:57:10 WARN  no build target for: /home/aibody/offshore-side-v001/src/main/scala/ply/te.scala[0m
+[0m2021.07.29 19:57:27 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+Jul 29, 2021 7:57:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Jul 29, 2021 7:57:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Jul 29, 2021 7:57:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+Jul 29, 2021 7:57:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+Jul 29, 2021 7:57:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+[0m2021.07.29 19:57:30 WARN  no build target for: /home/aibody/offshore-side-v001/src/main/scala/ply/te.scala[0m
+[0m2021.07.29 19:57:40 INFO  time: code lens generation in 11s[0m
+[0m2021.07.29 19:57:40 INFO  time: code lens generation in 11s[0m
+[0m2021.07.29 19:57:40 INFO  time: code lens generation in 11s[0m
+[0m2021.07.29 19:57:40 INFO  time: code lens generation in 11s[0m
+[0m2021.07.29 19:57:40 INFO  time: code lens generation in 11s[0m
+[0m2021.07.29 19:57:40 INFO  time: code lens generation in 12s[0m
+[0m2021.07.29 19:57:40 INFO  time: code lens generation in 12s[0m
+[0m2021.07.29 19:57:40 INFO  time: code lens generation in 11s[0m
+[0m2021.07.29 19:57:40 INFO  time: code lens generation in 12s[0m
+[0m2021.07.29 19:57:40 INFO  time: code lens generation in 12s[0m
+[0m2021.07.29 19:57:40 INFO  time: code lens generation in 24s[0m
+[0m2021.07.29 19:57:40 INFO  time: code lens generation in 28s[0m
+[0m2021.07.29 19:57:40 INFO  time: code lens generation in 11s[0m
+[0m2021.07.29 20:02:33 WARN  no build target for: /home/aibody/offshore-side-v001/src/main/scala/ply/te.scala[0m
+Jul 29, 2021 8:06:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 71
